@@ -5,6 +5,7 @@ An interactive AR marker application that transforms traditional art pieces into
 ## 📖 Project Overview
 This project brings static artworks to life through augmented reality technology. When users scan a designated AR marker with their mobile device, they experience art in a completely new dimension with enhanced audio, lighting, animations, and contextual information.
 
+
 ## ✨ Features
 ### Core Functionality
 - AR Marker Detection: Instant recognition and tracking of custom art markers
@@ -26,9 +27,11 @@ Built With
 - Efficient visual scripting architecture with modular functionality
 - Optimized AR tracking and rendering performance
 
+
 ## 📱 Device Requirements
 - iOS: iOS 11.0+ with ARKit support
 - Android: Android 7.0+ with ARCore support
+
 
 ## 🚀 Installation & Setup
 ### Prerequisites
@@ -39,28 +42,35 @@ Built With
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/ar-art-experience.git
-cd ar-art-experience
+git clone (https://github.com/invesigator/AR-Bring-Art-to-Life.git)
+cd AR-Bring-Art-to-Life
 ```
 
-Open in Unity
+2. Open in Unity
+- Launch Unity Hub
+- Add project from disk
+- Select the cloned folder
 
-Launch Unity Hub
-Add project from disk
-Select the cloned folder
+3. Configure Build Settings
 
+- Switch platform to iOS/Android
+- Add all scenes to build
+- Configure player settings for AR
 
-Configure Build Settings
-
-Switch platform to iOS/Android
-Add all scenes to build
-Configure player settings for AR
-
-
-Deploy to Device
-
-Connect your AR-capable device
-Build and run the application
+4. Deploy to Device
+- Connect your AR-capable device
+- Build and run the application
 
 
+## 📸 Screenshots
+### AR Marker
+![image](https://github.com/user-attachments/assets/719893a2-6ea4-49ac-812c-a5c095a461a4)
 
+
+## 📄 License
+3D Model:
+This work is based on "The Snowy Day 3D" (https://sketchfab.com/3d-models/the-snowy-day-3d-4b840c0081724ffcac18ca637ff4f953) by kdreamer (https://sketchfab.com/kdreamer) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+
+
+---
+_Bringing traditional art into the digital age through immersive AR experiences ✨_
