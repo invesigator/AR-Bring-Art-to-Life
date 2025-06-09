@@ -1,0 +1,11 @@
+Model Information:
+* title:	The Snowy Day 3D
+* source:	https://sketchfab.com/3d-models/the-snowy-day-3d-4b840c0081724ffcac18ca637ff4f953
+* author:	kdreamer (https://sketchfab.com/kdreamer)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "The Snowy Day 3D" (https://sketchfab.com/3d-models/the-snowy-day-3d-4b840c0081724ffcac18ca637ff4f953) by kdreamer (https://sketchfab.com/kdreamer) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
